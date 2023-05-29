@@ -1,0 +1,17 @@
+{
+	"name": "ds_synapse_payroll_target",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_synapse",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlDWTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "NYC_Payroll_Master"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

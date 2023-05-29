@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-nycpayroll",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "156d9aae-8f38-44a0-bb69-7ad0ec65df10",
+		"tenantId": "46549690-ba10-4285-9a49-5ad227a2b896"
+	}
+}
